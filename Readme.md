@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/detailViewMargin/Form1.cs)
+* [MyGridControl.cs](./CS/detailViewMargin/MyGridControl.cs)
+* [Program.cs](./CS/detailViewMargin/Program.cs)
+<!-- default file list end -->
 # How to add a margin between the Detail View and the Grid's border
 
 
